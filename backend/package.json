@@ -1,0 +1,32 @@
+{
+  "name": "gestionale-ospedale",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Giuseppe-Borzumati/Gestionale-Ospedale.git"
+  },
+  "author": "Giuseppe Borzumati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Giuseppe-Borzumati/Gestionale-Ospedale/issues"
+  },
+  "homepage": "https://github.com/Giuseppe-Borzumati/Gestionale-Ospedale#readme",
+  "devDependencies": {
+    "eslint": "^8.38.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.7.0",
+    "eslint-plugin-promise": "^6.1.1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3",
+    "uuid": "^9.0.0"
+  }
+}
